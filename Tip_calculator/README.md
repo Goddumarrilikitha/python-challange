@@ -4,6 +4,9 @@ This project is part of my **100 Days of Python Challenge**.
 
 The Tip Calculator helps users calculate how much each person should pay when splitting a bill, including the tip percentage.
 
+##Demo
+https://appbrewery.github.io/python-day2-demo/
+
 ## Project Description
 
 The program asks the user for:
